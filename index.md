@@ -1,8 +1,11 @@
 ## 前端技术栈
 
-开发语言： Vue
-组件库： Pc-element mobile-vant pad-vant
-http库：axios
+开发语言：Vue
+组件库:  
+Pc-element  
+mobile-vant  
+pad-vant  
+http库：axios  
 状态管理器：vuex + vuex-persist
 
 
