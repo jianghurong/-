@@ -1,6 +1,6 @@
 ## 前端技术栈
 
-开发语言：Vue
+开发语言：Vue  
 组件库:  
 Pc-element  
 mobile-vant  
