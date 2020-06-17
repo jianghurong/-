@@ -17,7 +17,7 @@ http库：axios
 ## 代码规范
 文件命名：小写，用“-”连接  
 CSS 类命名：BEM 规范  
-JS 变量名：驼峰
+JS 变量名：驼峰  
 项目目录结构:
 vue.config.js 文件别名
 调用 api 方式
